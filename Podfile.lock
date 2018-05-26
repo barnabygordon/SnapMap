@@ -1,9 +1,4 @@
 PODS:
-  - DKImagePickerController (3.8.1):
-    - DKImagePickerController/Camera (= 3.8.1)
-    - DKImagePickerController/ImageManager (= 3.8.1)
-  - DKImagePickerController/Camera (3.8.1)
-  - DKImagePickerController/ImageManager (3.8.1)
   - GoogleMaps (2.6.0):
     - GoogleMaps/Maps (= 2.6.0)
   - GoogleMaps/Base (2.6.0)
@@ -11,13 +6,11 @@ PODS:
     - GoogleMaps/Base
 
 DEPENDENCIES:
-  - DKImagePickerController
   - GoogleMaps
 
 SPEC CHECKSUMS:
-  DKImagePickerController: 51ad6ee2ba05414bb741db54a72cd7f4fb178e34
   GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
 
-PODFILE CHECKSUM: ef5bfc60b1fa3cf7903a4f0bbe802271c797f813
+PODFILE CHECKSUM: ef5849fb7770c6eb80bc18b1d21fa589864b9a02
 
 COCOAPODS: 1.2.1
